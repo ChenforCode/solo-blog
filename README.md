@@ -10,6 +10,7 @@ PKUCoder的个人博客
 
 ### 最新
 
+* [测试一下](http://www.chenforcode.cn/articles/2019/10/23/1571827959584.html)
 * [世界，你好！](http://www.chenforcode.cn/hello-solo)
 
 
