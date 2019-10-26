@@ -10,11 +10,11 @@ PKUCoder的个人博客
 
 ### 最新
 
+* [购物车列表渲染](http://www.chenforcode.cn/articles/2019/10/25/1572013318403.html)
 * [我在 GitHub 上的开源项目](http://www.chenforcode.cn/my-github-repos)
 * [组件拆分](http://www.chenforcode.cn/articles/2019/10/25/1571981151377.html)
 * [vue基础和项目基础架构](http://www.chenforcode.cn/articles/2019/10/24/1571917762708.html)
 * [测试一下](http://www.chenforcode.cn/articles/2019/10/23/1571827959584.html)
-* [世界，你好！](http://www.chenforcode.cn/hello-solo)
 
 
 
