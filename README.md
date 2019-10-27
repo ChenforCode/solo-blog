@@ -10,6 +10,8 @@ PKUCoder的个人博客
 
 ### 最新
 
+* [父子组件传递2](http://www.chenforcode.cn/articles/2019/10/26/1572096302288.html)
+* [过滤器，事件，插槽与父子组件传递](http://www.chenforcode.cn/articles/2019/10/26/1572070300619.html)
 * [购物车列表渲染](http://www.chenforcode.cn/articles/2019/10/25/1572013318403.html)
 * [我在 GitHub 上的开源项目](http://www.chenforcode.cn/my-github-repos)
 * [组件拆分](http://www.chenforcode.cn/articles/2019/10/25/1571981151377.html)
