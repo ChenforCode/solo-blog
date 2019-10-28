@@ -10,6 +10,7 @@ PKUCoder的个人博客
 
 ### 最新
 
+* [计算属性-金额的动态计算](http://www.chenforcode.cn/articles/2019/10/27/1572190241349.html)
 * [父子组件传递2](http://www.chenforcode.cn/articles/2019/10/26/1572096302288.html)
 * [过滤器，事件，插槽与父子组件传递](http://www.chenforcode.cn/articles/2019/10/26/1572070300619.html)
 * [购物车列表渲染](http://www.chenforcode.cn/articles/2019/10/25/1572013318403.html)
