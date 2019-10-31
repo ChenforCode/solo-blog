@@ -10,6 +10,8 @@ PKUCoder的个人博客
 
 ### 最新
 
+* [记一个新的开始](http://www.chenforcode.cn/articles/2019/10/31/1572517891466.html)
+* [mini-spring第一期：仿spring结构搭建](http://www.chenforcode.cn/articles/2019/10/30/1572431516565.html)
 * [地址列表渲染实现，地址选配功能](http://www.chenforcode.cn/articles/2019/10/28/1572273859120.html)
 * [计算属性2，金额动态计算，路由跳转](http://www.chenforcode.cn/articles/2019/10/28/1572229031253.html)
 * [计算属性-金额的动态计算](http://www.chenforcode.cn/articles/2019/10/27/1572190241349.html)
