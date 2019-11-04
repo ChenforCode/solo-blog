@@ -10,6 +10,7 @@ PKUCoder的个人博客
 
 ### 最新
 
+* [voicecare重启改造1](http://www.chenforcode.cn/articles/2019/11/03/1572773933138.html)
 * [记一个新的开始](http://www.chenforcode.cn/articles/2019/10/31/1572517891466.html)
 * [mini-spring第一期：仿spring结构搭建](http://www.chenforcode.cn/articles/2019/10/30/1572431516565.html)
 * [地址列表渲染实现，地址选配功能](http://www.chenforcode.cn/articles/2019/10/28/1572273859120.html)
