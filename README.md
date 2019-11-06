@@ -11,6 +11,7 @@ I'm PKUCoder
 ### 最新
 
 * [我在 GitHub 上的开源项目](http://www.chenforcode.cn/my-github-repos)
+* [mini-spring第四期：类扫描器，控制器初始化](http://www.chenforcode.cn/articles/2019/11/05/1572884925888.html)
 * [mini-spring第三期：实现mvc包](http://www.chenforcode.cn/articles/2019/11/04/1572882363994.html)
 * [mini-spring第二期--web服务与servlet，集成tomcat服务器](http://www.chenforcode.cn/articles/2019/11/04/1572880564685.html)
 * [voicecare重启改造1](http://www.chenforcode.cn/articles/2019/11/03/1572773933138.html)
@@ -24,7 +25,6 @@ I'm PKUCoder
 * [购物车列表渲染](http://www.chenforcode.cn/articles/2019/10/25/1572013318403.html)
 * [组件拆分](http://www.chenforcode.cn/articles/2019/10/25/1571981151377.html)
 * [vue基础和项目基础架构](http://www.chenforcode.cn/articles/2019/10/24/1571917762708.html)
-* [测试一下](http://www.chenforcode.cn/articles/2019/10/23/1571827959584.html)
 
 
 
