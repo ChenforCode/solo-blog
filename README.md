@@ -10,6 +10,8 @@ I'm PKUCoder
 
 ### 最新
 
+* [mini-spring第六期：理解和debug](http://www.chenforcode.cn/articles/2019/11/08/1573168779164.html)
+* [mini-spring第五期：bean管理](http://www.chenforcode.cn/articles/2019/11/08/1573143927961.html)
 * [我在 GitHub 上的开源项目](http://www.chenforcode.cn/my-github-repos)
 * [mini-spring第四期：类扫描器，控制器初始化](http://www.chenforcode.cn/articles/2019/11/05/1572884925888.html)
 * [mini-spring第三期：实现mvc包](http://www.chenforcode.cn/articles/2019/11/04/1572882363994.html)
