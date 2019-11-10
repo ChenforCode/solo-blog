@@ -10,6 +10,8 @@ I'm PKUCoder
 
 ### 最新
 
+* [homepage第二期：服务网关模块开发](http://www.chenforcode.cn/articles/2019/11/10/1573382601329.html)
+* [homepage第一期：Eureka Server的开发，包括单节点和多节点的开发](http://www.chenforcode.cn/articles/2019/11/10/1573377266331.html)
 * [mini-spring第六期：理解和debug](http://www.chenforcode.cn/articles/2019/11/08/1573168779164.html)
 * [mini-spring第五期：bean管理](http://www.chenforcode.cn/articles/2019/11/08/1573143927961.html)
 * [我在 GitHub 上的开源项目](http://www.chenforcode.cn/my-github-repos)
