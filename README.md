@@ -10,6 +10,7 @@ I'm PKUCoder
 
 ### 最新
 
+* [homepage第七期：可用性测试](http://www.chenforcode.cn/articles/2019/11/14/1573738529935.html)
 * [homepage第六期：user微服务搭建，单元测试，可用性测试准备](http://www.chenforcode.cn/articles/2019/11/13/1573638906090.html)
 * [homepage第五期：搭建user微服务](http://www.chenforcode.cn/articles/2019/11/12/1573546132145.html)
 * [homepage第四期：微服务功能实现及相关测试](http://www.chenforcode.cn/articles/2019/11/11/1573477681356.html)
@@ -29,13 +30,13 @@ I'm PKUCoder
 * [计算属性2，金额动态计算，路由跳转](http://www.chenforcode.cn/articles/2019/10/28/1572229031253.html)
 * [计算属性-金额的动态计算](http://www.chenforcode.cn/articles/2019/10/27/1572190241349.html)
 * [父子组件传递2](http://www.chenforcode.cn/articles/2019/10/26/1572096302288.html)
-* [过滤器，事件，插槽与父子组件传递](http://www.chenforcode.cn/articles/2019/10/26/1572070300619.html)
 
 ### 热门
 
 * [vue基础和项目基础架构](http://www.chenforcode.cn/articles/2019/10/24/1571917762708.html)
 * [组件拆分](http://www.chenforcode.cn/articles/2019/10/25/1571981151377.html)
 * [购物车列表渲染](http://www.chenforcode.cn/articles/2019/10/25/1572013318403.html)
+* [过滤器，事件，插槽与父子组件传递](http://www.chenforcode.cn/articles/2019/10/26/1572070300619.html)
 
 
 
